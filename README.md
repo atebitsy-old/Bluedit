@@ -19,6 +19,8 @@ Feature enhancements to the offical Reddit application.
 * Live broadcasts
 * Trending
 * Recommended communities 
+* Recent communities 
+* Saved image attribution 
   
 **DRAWER OPTIONS**  
 * My profile [Drawer Action: Default: enabled]
