@@ -29,3 +29,9 @@ Feature enhancements to the offical Reddit application.
 * Pending Posts [Drawer Action: Default: disabled]
 * Drafts [Drawer Action: Default: disabled]
 * Create a community [Drawer Action: Default: disabled]
+
+**NSFW OPTIONS**  
+* Show NSFW Content (18+)
+* Blur NSFW Images
+* NSFW Alerts
+
