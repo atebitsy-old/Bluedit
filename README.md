@@ -13,6 +13,12 @@ Feature enhancements to the offical Reddit application.
 * Tap to collapse comments
 * Long-press to collapse comments
 * Swipe to collapse comments
+
+**GENERAL OPTIONS**  
+* Promoted posts
+* Live broadcasts
+* Trending
+* Recommended communities 
   
 **DRAWER OPTIONS**  
 * My profile [Drawer Action: Default: enabled]
