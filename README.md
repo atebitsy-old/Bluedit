@@ -6,21 +6,17 @@ Feature enhancements to the offical Reddit application.
 * Employee
 * Premium
 * Verified
-* Promoter
+
+**BUTTON OPTIONS**  
+* Award
+* Coin
 
 **COMMENT OPTIONS**  
 * Comment highlight
 * Tap to collapse comments
 * Long-press to collapse comments
 * Swipe to collapse comments
-
-**GENERAL OPTIONS**  
-* Promoted posts
-* Live broadcasts
-* Trending
-* Recommended communities 
-* Recent communities 
-* Saved image attribution 
+* Reduce award animations
   
 **DRAWER OPTIONS**  
 * My profile [Drawer Action: Default: enabled]
@@ -31,6 +27,14 @@ Feature enhancements to the offical Reddit application.
 * Pending Posts [Drawer Action: Default: disabled]
 * Drafts [Drawer Action: Default: disabled]
 * Create a community [Drawer Action: Default: disabled]
+
+**GENERAL OPTIONS**  
+* Promoted posts
+* Live broadcasts
+* Trending today
+* Recommended communities 
+* Recent communities 
+* Saved image attribution 
 
 **NSFW OPTIONS**  
 * Show NSFW Content (18+)
