@@ -1,3 +1,4 @@
+
 # Bluedit for Reddit
 Feature enhancements to the offical Reddit application.
 
@@ -7,10 +8,6 @@ Feature enhancements to the offical Reddit application.
 * Premium
 * Verified
 
-**BUTTON OPTIONS**  
-* Award
-* Coin
-
 **COMMENT OPTIONS**  
 * Comment highlight
 * Tap to collapse comments
@@ -18,8 +15,22 @@ Feature enhancements to the offical Reddit application.
 * Swipe to collapse comments
 * Reduce award animations
   
+**FEED OPTIONS**  
+* Live broadcasts
+* Trending today
+* Recommended communities 
+* Recent communities 
+* Saved image attribution 
+
+**POST OPTIONS**  
+* Tappable subreddit name
+* Dim read posts
+* Comment score
+* Vote score
+
 **DRAWER OPTIONS**  
 * My profile [Drawer Action: Default: enabled]
+* Vault [Drawer Action: Default: disabled]
 * Reddit Coins [Drawer Action: Default: disabled]
 * Reddit premium [Drawer Action: Default: disabled]
 * Saved [Drawer Action: Default: enabled]
@@ -27,17 +38,10 @@ Feature enhancements to the offical Reddit application.
 * Pending Posts [Drawer Action: Default: disabled]
 * Drafts [Drawer Action: Default: disabled]
 * Create a community [Drawer Action: Default: disabled]
+* Sign up / Log in [Drawer Action: Default: enabled]
 
-**GENERAL OPTIONS**  
-* Promoted posts
-* Live broadcasts
-* Trending today
-* Recommended communities 
-* Recent communities 
-* Saved image attribution 
-
-**NSFW OPTIONS**  
-* Show NSFW Content (18+)
-* Blur NSFW Images
-* NSFW Alerts
+**MORE OPTIONS**  
+* Adult content
+* Safe browsing mode
+* Adult content alerts
 
