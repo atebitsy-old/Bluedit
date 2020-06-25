@@ -8,6 +8,10 @@ Feature enhancements to the offical Reddit application.
 * Premium
 * Verified
 
+**PREMIUM FEATURES**  
+* Hide advertisements
+* Highlight new comments
+
 **COMMENT OPTIONS**  
 * Comment highlight
 * Tap to collapse comments
