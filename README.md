@@ -32,6 +32,10 @@ Feature enhancements to the offical Reddit application.
 * Comment score
 * Vote score
 
+**VOTE CONTROL**  
+* Upvote automatically
+* Downvote automatically
+
 **DRAWER OPTIONS**  
 * My profile [Drawer Action: Default: enabled]
 * Vault [Drawer Action: Default: disabled]
