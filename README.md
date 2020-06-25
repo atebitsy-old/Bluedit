@@ -17,7 +17,7 @@ Feature enhancements to the offical Reddit application.
 * Tap to collapse comments
 * Long-press to collapse comments
 * Swipe to collapse comments
-* Reduce award animations
+* Award animations
   
 **FEED OPTIONS**  
 * Live broadcasts
